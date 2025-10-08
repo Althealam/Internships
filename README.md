@@ -50,7 +50,9 @@
 - `data/` – input CSV (`listings_sample.csv`)
 - `notebooks/trial.ipynb` – main notebook (EDA, features, modeling, LLM)
 - `templates/README.template.md` – original template
-- `tasks/trial_brief.md` – assignment brief
+- `tasks/trial_brief.md` – original assignment brief
+- `results/one_pager.pdf` – outcome for this project(other things in the results folder you can just ignore)
+
 
 ## Known Limitations
 - Small dataset; outlier sensitivity and variance in metrics
@@ -64,5 +66,5 @@
 - Tune models (RF depth/trees), add interactions, or per‑city models
 
 ## Time Spent
-- Approx hours: 1.5 hours
+- Approx hours: 2 hours
 
